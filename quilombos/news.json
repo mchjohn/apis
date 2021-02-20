@@ -1,0 +1,74 @@
+{
+    "news": [
+      {
+        "id": "1",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Partida",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "2",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Jogo",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "3",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Novidade",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "4",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Partida",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "5",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Treino",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "6",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Comunicado",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "7",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Partida",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "8",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Infrmação",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "9",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Partida",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      },
+      {
+        "id": "10",
+        "url": "https://lh3.googleusercontent.com/proxy/qcnnMZXtE1Lspyhzdmo5jsKSlfx18MqCyAQuTz79g68HdJ0eQBwxVUc5qoAbDDVgL5owHzuLwr1DzlqoHVdmKC2qVZTUXzLpDc6v5Qu41sUAgydLc3GIOhg9AFioMwGLQV9Fn5I",
+        "category": "Treino",
+        "title": "Partida contra o time do Grão Pará em casa",
+        "date": "18/02/2021"
+      }
+    ]
+  }
