@@ -1,0 +1,23 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "Api para dados do app quilombosfc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mchjohn/apis.git"
+  },
+  "author": "Michel John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchjohn/apis/issues"
+  },
+  "homepage": "https://github.com/mchjohn/apis#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
