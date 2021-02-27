@@ -1,0 +1,94 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Lucas Naldinos",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Atacante"
+    },
+    {
+      "id": "2",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Daniel Gomes",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Goleiro"
+    },
+    {
+      "id": "3",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Alan Lopes",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Atacante"
+    },
+    {
+      "id": "4",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "João Naldino",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Zagueiro"
+    },
+    {
+      "id": "5",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Natan Vaz",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Zagueiro"
+    },
+    {
+      "id": "6",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Marcos Oliveira",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Meio Campo"
+    },
+    {
+      "id": "7",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Donald Jr",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Meio Campo"
+    },
+    {
+      "id": "8",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Murilo Junior",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Zagueiro"
+    },
+    {
+      "id": "9",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Victor Gomes",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Goleiro"
+    },
+    {
+      "id": "10",
+      "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+      "name": "Neto Silva",
+      "played": 4,
+      "age": 10,
+      "gols": 3,
+      "position": "Lateral"
+    }
+  ]
+}
