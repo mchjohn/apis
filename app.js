@@ -16,7 +16,7 @@ app.get('/players', (req, res) => {
       {
         "id": "1",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
-        "name": "Lucas Naldinos",
+        "name": "Lucas Santana",
         "played": 4,
         "age": 10,
         "gols": 3,
