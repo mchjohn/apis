@@ -16,6 +16,7 @@ app.get('/players', (req, res) => {
       {
         "id": "1",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Lucas Santana",
         "played": 4,
         "age": 10,
@@ -25,6 +26,7 @@ app.get('/players', (req, res) => {
       {
         "id": "2",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Daniel Gomes",
         "played": 4,
         "age": 10,
@@ -34,6 +36,7 @@ app.get('/players', (req, res) => {
       {
         "id": "3",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Alan Lopes",
         "played": 4,
         "age": 10,
@@ -43,6 +46,7 @@ app.get('/players', (req, res) => {
       {
         "id": "4",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "João Naldino",
         "played": 4,
         "age": 10,
@@ -52,6 +56,7 @@ app.get('/players', (req, res) => {
       {
         "id": "5",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Natan Vaz",
         "played": 4,
         "age": 10,
@@ -61,6 +66,7 @@ app.get('/players', (req, res) => {
       {
         "id": "6",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Marcos Oliveira",
         "played": 4,
         "age": 10,
@@ -70,6 +76,7 @@ app.get('/players', (req, res) => {
       {
         "id": "7",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Donald Jr",
         "played": 4,
         "age": 10,
@@ -79,6 +86,7 @@ app.get('/players', (req, res) => {
       {
         "id": "8",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Murilo Junior",
         "played": 4,
         "age": 10,
@@ -88,6 +96,7 @@ app.get('/players', (req, res) => {
       {
         "id": "9",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Victor Gomes",
         "played": 4,
         "age": 10,
@@ -97,6 +106,7 @@ app.get('/players', (req, res) => {
       {
         "id": "10",
         "url": "https://res.cloudinary.com/sk84all/image/upload/v1614455846/quilombos/player-soccer_kiwnwu.png",
+        "urlJogador": "https://res.cloudinary.com/sk84all/image/upload/v1615646308/quilombos/jogador_k17d4f.png"
         "name": "Neto Silva",
         "played": 4,
         "age": 10,
